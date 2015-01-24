@@ -1,4 +1,4 @@
-# India Pale Kolsch
+# India Pale Kölsch
 
 A German ale / lager hybrid, with extra hoppy goodness!
 
