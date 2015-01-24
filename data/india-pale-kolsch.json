@@ -1,0 +1,123 @@
+{
+  "name": "India Pale Kölsch",
+  "style": "Kölsch",
+  "brewer": "",
+  "batchSize": 11.0156118,
+  "boilSize": 17.722643,
+  "boilTime": 90,
+  "efficiency": 0.65,
+  "og": 1.046,
+  "fg": 1.01,
+  "hops": [
+    {
+      "name": "Magnum",
+      "aa": 0.14,
+      "amount": 0.01,
+      "use": "Boil",
+      "time": 60,
+      "form": "Pellet"
+    },
+    {
+      "name": "Cascade",
+      "aa": 0.055,
+      "amount": 0.012,
+      "use": "Boil",
+      "time": 10,
+      "form": "Pellet"
+    },
+    {
+      "name": "Chinook",
+      "aa": 0.13,
+      "amount": 0.012,
+      "use": "Boil",
+      "time": 10,
+      "form": "Pellet"
+    },
+    {
+      "name": "Cascade",
+      "aa": 0.055,
+      "amount": 0.012,
+      "use": "Boil",
+      "time": 0,
+      "form": "Leaf"
+    },
+    {
+      "name": "Chinook",
+      "aa": 0.13,
+      "amount": 0.012,
+      "use": "Boil",
+      "time": 0,
+      "form": "Pellet"
+    },
+    {
+      "name": "Cascade",
+      "aa": 0.055,
+      "amount": 0.01,
+      "use": "Dry Hop",
+      "time": "5 days",
+      "form": "Leaf"
+    },
+    {
+      "name": "Chinook",
+      "aa": 0.13,
+      "amount": 0.01,
+      "use": "Dry Hop",
+      "time": "5 days",
+      "form": "Pellet"
+    }
+  ],
+  "fermentables": [
+    {
+      "name": "Pilsner (2 Row) Ger",
+      "amount": 2.9999981,
+      "color": 2,
+      "yield": 0.81,
+      "mashed": true
+    },
+    {
+      "name": "Wheat Malt, Ger",
+      "amount": 0.2999998,
+      "color": 2,
+      "yield": 0.84,
+      "mashed": true
+    },
+    {
+      "name": "Munich Malt",
+      "amount": 0.1299999,
+      "color": 9,
+      "yield": 0.8,
+      "mashed": true
+    }
+  ],
+  "additions": [],
+  "yeast": {
+    "name": "German Ale/Kolsch",
+    "type": "Ale",
+    "lab": "White Labs",
+    "code": "WLP029",
+    "attenuation": 0.75,
+    "amount": "35.49 mL"
+  },
+  "mash": [
+    {
+      "name": "Saccharification",
+      "type": "Infusion",
+      "rampTime": 10,
+      "duration": 60,
+      "infusionTemp": 72.3,
+      "targetTemp": 68.9,
+      "amount": 19.8194175
+    },
+    {
+      "name": "Mash Out",
+      "type": "Temperature",
+      "rampTime": 7,
+      "duration": 10,
+      "infusionTemp": 48.9,
+      "targetTemp": 75.5555556
+    }
+  ],
+  "ibu": 44.6,
+  "color": 4.5,
+  "abv": 0.048
+}
