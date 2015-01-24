@@ -1,6 +1,8 @@
 # ODIPA
 
-A recipe for a rye-infused American IPA. Recipes in [Beer XML](http://www.beerxml.com/) and [BeerJSON](https://github.com/jonpacker/beerjson) format
+A German ale / lager hybrid, with extra hoppy goodness!
+
+Recipes in [Beer XML](http://www.beerxml.com/) and [BeerJSON](https://github.com/jonpacker/beerjson) format
 
 **Batch Size:** 11 litres
 
