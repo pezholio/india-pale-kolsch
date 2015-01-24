@@ -1,4 +1,4 @@
-# ODIPA
+# India Pale Kolsch
 
 A German ale / lager hybrid, with extra hoppy goodness!
 
